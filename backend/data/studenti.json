@@ -1,13 +1,19 @@
 {
-    "studenti":[{
-        "id": 1,
-        "nome": "Simone Risola",
-        "crediti":22
-    },
-    {
-        "id":2,
-        "nome": "Gabriele De Giglio",
-        "crediti":25
-    } 
-]
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Simone Risola",
+            "crediti": 22
+        },
+        {
+            "id": 2,
+            "nome": "Gabriele De Giglio",
+            "crediti": 25
+        },
+        {
+            "id": 3,
+            "nome": "Francesco Lombatskeila",
+            "crediti": 20
+        }
+    ]
 }
